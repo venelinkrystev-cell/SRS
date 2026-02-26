@@ -1,0 +1,9 @@
+eventId: circuit_airport_orbit
+displayName: Airport Orbit
+type: Circuit
+route: Route_Circuit_Airport
+laps: 5
+timeLimitSeconds: 0
+recommendedRespect: 20
+baseCashReward: 1800
+baseRespectReward: 520

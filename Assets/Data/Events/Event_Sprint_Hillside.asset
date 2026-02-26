@@ -1,0 +1,9 @@
+eventId: sprint_hillside_run
+displayName: Hillside Run
+type: Sprint
+route: Route_Sprint_Hillside
+laps: 1
+timeLimitSeconds: 220
+recommendedRespect: 12
+baseCashReward: 700
+baseRespectReward: 220

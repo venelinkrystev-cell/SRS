@@ -1,0 +1,9 @@
+routeId: route_circuit_riverside
+startPosition: [-300.0, 0.0, 180.0]
+startForward: [1.0, 0.0, 0.0]
+checkpointRadius: 8.0
+checkpointPositions:
+  - [-240.0, 0.0, 200.0]
+  - [-180.0, 0.0, 170.0]
+  - [-170.0, 0.0, 110.0]
+  - [-240.0, 0.0, 95.0]

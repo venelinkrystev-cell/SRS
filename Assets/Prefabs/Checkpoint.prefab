@@ -1,0 +1,6 @@
+# Placeholder prefab definition
+name: Checkpoint
+components:
+  - SphereCollider (isTrigger=true)
+  - Checkpoint (script)
+  - GizmoDrawer (via Checkpoint.OnDrawGizmos)

@@ -1,0 +1,9 @@
+eventId: sprint_downtown_dash
+displayName: Downtown Dash
+type: Sprint
+route: Route_Sprint_Downtown
+laps: 1
+timeLimitSeconds: 180
+recommendedRespect: 5
+baseCashReward: 450
+baseRespectReward: 120

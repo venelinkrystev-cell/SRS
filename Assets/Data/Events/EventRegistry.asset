@@ -1,0 +1,8 @@
+# Stub registry asset for Unity ScriptableObject EventRegistry
+# Populate via inspector: 6 sample events below.
+- sprint_downtown_dash
+- sprint_harbor_blast
+- sprint_hillside_run
+- circuit_oldtown_loop
+- circuit_riverside_ring
+- circuit_airport_orbit

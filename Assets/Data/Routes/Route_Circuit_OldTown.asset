@@ -1,0 +1,10 @@
+routeId: route_circuit_oldtown
+startPosition: [40.0, 0.0, 40.0]
+startForward: [0.0, 0.0, 1.0]
+checkpointRadius: 7.0
+checkpointPositions:
+  - [75.0, 0.0, 100.0]
+  - [130.0, 0.0, 85.0]
+  - [145.0, 0.0, 20.0]
+  - [90.0, 0.0, -20.0]
+  - [35.0, 0.0, 0.0]
