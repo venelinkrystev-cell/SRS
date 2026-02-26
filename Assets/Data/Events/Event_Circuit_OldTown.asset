@@ -1,0 +1,9 @@
+eventId: circuit_oldtown_loop
+displayName: Old Town Loop
+type: Circuit
+route: Route_Circuit_OldTown
+laps: 3
+timeLimitSeconds: 0
+recommendedRespect: 10
+baseCashReward: 900
+baseRespectReward: 280

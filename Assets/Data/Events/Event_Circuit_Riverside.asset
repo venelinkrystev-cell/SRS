@@ -1,0 +1,9 @@
+eventId: circuit_riverside_ring
+displayName: Riverside Ring
+type: Circuit
+route: Route_Circuit_Riverside
+laps: 4
+timeLimitSeconds: 0
+recommendedRespect: 14
+baseCashReward: 1200
+baseRespectReward: 360

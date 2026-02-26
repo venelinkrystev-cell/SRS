@@ -1,0 +1,9 @@
+routeId: route_circuit_airport
+startPosition: [600.0, 0.0, -320.0]
+startForward: [0.0, 0.0, 1.0]
+checkpointRadius: 10.0
+checkpointPositions:
+  - [660.0, 0.0, -260.0]
+  - [740.0, 0.0, -290.0]
+  - [730.0, 0.0, -390.0]
+  - [640.0, 0.0, -430.0]

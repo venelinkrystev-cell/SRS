@@ -1,0 +1,9 @@
+routeId: route_sprint_downtown
+startPosition: [125.0, 0.0, 210.0]
+startForward: [0.0, 0.0, 1.0]
+checkpointRadius: 8.0
+checkpointPositions:
+  - [150.0, 0.0, 250.0]
+  - [200.0, 0.0, 295.0]
+  - [260.0, 0.0, 330.0]
+  - [320.0, 0.0, 365.0]

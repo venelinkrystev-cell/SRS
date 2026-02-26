@@ -1,0 +1,9 @@
+eventId: sprint_harbor_blast
+displayName: Harbor Blast
+type: Sprint
+route: Route_Sprint_Harbor
+laps: 1
+timeLimitSeconds: 190
+recommendedRespect: 8
+baseCashReward: 520
+baseRespectReward: 150

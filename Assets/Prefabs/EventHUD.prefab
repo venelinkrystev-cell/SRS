@@ -1,0 +1,9 @@
+# Placeholder prefab definition
+name: EventHUD
+components:
+  - CanvasGroup
+  - EventHUD (script)
+children:
+  - TitleText
+  - TimerText
+  - ProgressText

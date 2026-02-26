@@ -1,0 +1,12 @@
+# Placeholder prefab definition
+name: EventPreviewPanel
+components:
+  - CanvasGroup
+  - EventPreviewPanel (script)
+children:
+  - TitleText
+  - TypeText
+  - LapsText
+  - RewardsText
+  - StartButton
+  - CancelButton
